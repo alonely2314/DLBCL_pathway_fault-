@@ -1,0 +1,235 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	TREATMENT_TYPE	TREATMENT_SUBTYPE	AGENT	NUMBER_OF_CYCLES	PRESCRIBED_DOSE	PRESCRIBED_DOSE_UNITS	REGIMEN_NUMBER	REGIMEN_INDICATION	REGIMEN_INDICATION_NOTES	MEASURE_OF_RESPONSE	CLINICAL_TRIAL_DRUG_CLASSIFICATION	ROUTE_OF_ADMINISTRATION	ROUTE_OF_ADMINISTRATION-2	THERAPY_ONGOING	TOTAL_DOSE	TOTAL_DOSE_UNITS	TX_ON_CLINICAL_TRIAL	ANATOMIC_TREATMENT_SITE	COURSE_NUMBER	NUMBER_OF_FRACTIONS	RADIATION_DOSAGE	RADIATION_TREATMENT_ONGOING	RADIATION_TYPE	RADIATION_UNITS	PHARM_REGIMEN	STEM_CELL_TRANSPLANTATION	STEM_CELL_TRANSPLANTATION_TYPE
+TCGA-FA-8693	102	132	Treatment	Chemotherapy		Doxorubicin					Primary						No			No								Single Agent Therapy (Please Specify)	No	
+TCGA-FA-8693	46	132	Treatment	Chemotherapy		Cyclophosphamide					Primary						No			No								Single Agent Therapy (Please Specify)	No	
+TCGA-FA-8693	46	132	Treatment	Chemotherapy		Vinblastine					Primary						No			No								Single Agent Therapy (Please Specify)	No	
+TCGA-FA-A4BB	13	132	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	660		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A4BB	13	132	Treatment	Chemotherapy		Vincristine	6				Primary						No	12		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A4BB	56	62	Treatment	Chemotherapy		Bleomycin	1				Primary						No	15		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A4BB	101	108	Treatment	Chemotherapy		Etoposide	1				Primary						No	600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A4BB	13	132	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	7000		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A6HN	8	39	Treatment	Chemotherapy		Prednisone	2				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HN	8	39	Treatment	Chemotherapy		Doxorubicin	2				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HN	8	39	Treatment	Chemotherapy		Cyclophosphamide	2				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HN	8	39	Treatment	Chemotherapy		Vincristine	2				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HO	10	71	Treatment	Chemotherapy		Cyclophosphamide	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HO	10	71	Treatment	Chemotherapy		Doxorubicin	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HO	10	71	Treatment	Chemotherapy		Prednisone	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A6HO	10	71	Treatment	Chemotherapy		Vincristine	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A7DS	35	127	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Chop-14	No	
+TCGA-FA-A7DS	35	127	Treatment	Chemotherapy		Prednisolone	6				Primary						No			No								Chop-14	No	
+TCGA-FA-A7DS	35	127	Treatment	Chemotherapy		Vincristine	6				Primary						No			No								Chop-14	No	
+TCGA-FA-A7DS	35	127	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No			No								Chop-14	No	
+TCGA-FA-A82F	51	112	Treatment	Chemotherapy		Cyclophosphamide	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A82F	51	112	Treatment	Chemotherapy		Doxorubicin	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A82F	51	112	Treatment	Chemotherapy		Prednisone	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A82F	51	112	Treatment	Chemotherapy		Vincristine	4				Primary						No			No								Chop-14	No	
+TCGA-FA-A86F	21	118	Treatment	Chemotherapy		Doxorubicin	4				Primary						No	360		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	156	195	Treatment	Chemotherapy		Vincristine	2				Progression						No	4		No								Chop + Etoposide	No	
+TCGA-FA-A86F	156	195	Treatment	Chemotherapy		Doxorubicin	2				Progression						No	160		No								Chop + Etoposide	No	
+TCGA-FA-A86F	156	195	Treatment	Chemotherapy		Dexamethasone	2				Progression						No	36		No								Chop + Etoposide	No	
+TCGA-FA-A86F	21	118	Treatment	Chemotherapy		Bleomycin	4				Primary						No	60		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	21	118	Treatment	Chemotherapy		Dacarbazine	4				Primary						No	4800		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	21	118	Treatment	Chemotherapy		Vincristine	4				Primary						No	8		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	538	542	Treatment	Chemotherapy		Cyclophosphamide	1				Progression						No	1000		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	538	542	Treatment	Chemotherapy		Mitoxantrone	1				Progression						No	16		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	538	542	Treatment	Chemotherapy		Etoposide	1				Progression						No	400		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FA-A86F	156	195	Treatment	Chemotherapy		Etoposide	2				Progression						No	800		No								Chop + Etoposide	No	
+TCGA-FA-A86F	156	195	Treatment	Chemotherapy		Cyclophosphamide	2				Progression						No	2400		No								Chop + Etoposide	No	
+TCGA-FA-A86F	244	280	Treatment	Radiation Therapy		Radiation 1							stable disease								Primary Tumor Field			36	No	External	gy			
+TCGA-FF-8041	27	154	Treatment	Chemotherapy		Etoposide + Prednisone + Vincristine + Doxorubicin	06				Primary						No	11037		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8041	27	154	Treatment	Chemotherapy		Rituximab	06				Primary						No	3600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8042	14	107	Treatment	Chemotherapy		Cyclophosphamide + Doxorubicin + Vincristine + Prednisone	06				Primary						No	7958.4		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8042	14	107	Treatment	Chemotherapy		Rituximab	06				Primary						No	3600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8043	52	157	Treatment	Chemotherapy		Etoposide + Prednisone + Vincristine + Doxorubicin	05				Primary						No	11089.4		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8043	31	157	Treatment	Chemotherapy		Rituximab	06				Primary						No	3600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8043	31	52	Treatment	Chemotherapy		Cyclophosphamide + Doxorubicin + Vincristine + Prednisone	01				Primary						No	1126.4		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8046	20	146	Treatment	Chemotherapy		Cyclophosphamide + Doxorubicin + Vincristine + Prednisone	06				Primary						No	7358.4		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8046	20	146	Treatment	Chemotherapy		Rituximab	06				Primary						No	800		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8047	19	59	Treatment	Chemotherapy		Ifosfamide + Carboplatin + Etoposide	02				Primary						No	2574.05		Yes								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8047	19	59	Treatment	Chemotherapy		Ifosfamide + Carboplatin + Etoposide	02				Progression						No	4574.05		Yes								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8047	59	80	Treatment	Chemotherapy		Cyclophosphamide + Vincristine + Doxorubicin + Dexamethasone	01				Progression						No	9		Yes								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8047	19	59	Treatment	Chemotherapy		Ofatumumab	02				Primary						No	2000		Yes								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8061	24	154	Treatment	Chemotherapy		Etoposide + Prednisone + Vincristine + Doxorubicin	06				Primary						No	11235.6		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8061	24	154	Treatment	Chemotherapy		Rituximab	06				Primary						No	600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8062	7	155	Treatment	Chemotherapy		Rituximab	06				Primary						No	3600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-8062	7	155	Treatment	Chemotherapy		Cyclophosphamide + Doxorubicin + Vincristine + Prednisone	06				Primary						No	7358.4		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	116	137	Treatment	Chemotherapy		Prednisolone	1				Primary						No	50		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	5	115	Treatment	Chemotherapy		Rituximab	5				Primary						No	2900		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	5	115	Treatment	Chemotherapy		Vincristine	5				Primary						No	6		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	5	115	Treatment	Chemotherapy		Cyclophosphamide	5				Primary						No	5435		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	116	137	Treatment	Chemotherapy		Cyclophosphamide	1				Primary						No	1050		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	5	115	Treatment	Chemotherapy		Doxorubicin	5				Primary						No	315		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	116	137	Treatment	Chemotherapy		Vincristine	1				Primary						No	0		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	5	115	Treatment	Chemotherapy		Prednisolone	5				Primary						No	250		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CQ	116	137	Treatment	Chemotherapy		Rituximab	1				Primary						No	600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CR	7	277	Treatment	Chemotherapy		Vincristine	5				Primary						No	6		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CR	7	277	Treatment	Chemotherapy		Prednisolone	5				Primary						No	250		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CR	7	277	Treatment	Chemotherapy		Cyclophosphamide	5				Primary						No	5435		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CR	193	256	Treatment	Chemotherapy		Methotrexate	2				Primary						No	154		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CR	7	277	Treatment	Chemotherapy		Rituximab	5				Primary						No	3500		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CR	7	277	Treatment	Chemotherapy		Doxorubicin	5				Primary						No	315		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CW	4	131	Treatment	Chemotherapy		Prednisolone	6				Primary						No	300		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CW	4	131	Treatment	Chemotherapy		Vincristine	6				Primary						No	9		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CW	4	131	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	4800		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CW	4	131	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	330		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CW	4	131	Treatment	Chemotherapy		Rituximab	6				Primary						No	3600		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CX	10	140	Treatment	Chemotherapy		Methotrexate	6				Primary						No	462		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CX	10	140	Treatment	Chemotherapy		Cyclophosphamide	7				Primary						No	7535		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CX	10	140	Treatment	Chemotherapy		Doxorubicin	7				Primary						No	415		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CX	10	140	Treatment	Chemotherapy		Prednisolone	7				Primary						No	350		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CX	10	140	Treatment	Chemotherapy		Rituximab	7				Primary						No	4200		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FF-A7CX	10	140	Treatment	Chemotherapy		Vincristine	7				Primary						No	6		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FM-8000	56	189	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FM-8000	56	189	Treatment	Chemotherapy		Rituximab	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FM-8000	56	189	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-FM-8000	56	189	Treatment	Chemotherapy		Vincristine	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6324	25	130	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	7440		No								Chop-21 + Rituximab	Yes	Autologous
+TCGA-G8-6324	971	1124	Treatment	Chemotherapy		Rituximab					Progression						No			Yes								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	971	1124	Treatment	Chemotherapy		Doxorubicin					Progression						No			Yes								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	1172	1200	Treatment	Chemotherapy		Vincristine	2				Progression						No	66		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	1172	1200	Treatment	Chemotherapy		Rituximab	2				Progression						No	1230		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	1172	1200	Treatment	Chemotherapy		Gemcitabine	2				Progression						No	3300		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	1148	1165	Treatment	Chemotherapy		Lenalidomide					Progression						No			No								Single Agent Therapy (Please Specify)	Yes	Autologous
+TCGA-G8-6324	25	130	Treatment	Chemotherapy		Vincristine	6				Primary						No	12		No								Chop-21 + Rituximab	Yes	Autologous
+TCGA-G8-6324	25	130	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	486		No								Chop-21 + Rituximab	Yes	Autologous
+TCGA-G8-6324	25	130	Treatment	Chemotherapy		Rituximab	6				Primary						No	3720		No								Chop-21 + Rituximab	Yes	Autologous
+TCGA-G8-6324	390	394	Treatment	Chemotherapy		Dexamethasone	1				Progression						No	250		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	392	394	Treatment	Chemotherapy		Cytarabine	1				Progression						No	20000		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	392	394	Treatment	Chemotherapy		Dexamethasone	1				Progression						No	250		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	392	394	Treatment	Chemotherapy		Carboplatin	1				Progression						No	400		No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	971	1124	Treatment	Chemotherapy		Bortezomib					Progression						No			Yes								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6324	563	591	Treatment	Radiation Therapy		Radiation 1							stable disease								Distant Site		20	40	No	External	gy			
+TCGA-G8-6325	24	153	Treatment	Chemotherapy		Rituximab	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6325	24	153	Treatment	Chemotherapy		Vincristine	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6325	24	153	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6325	24	153	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6326	35	142	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6326	35	142	Treatment	Chemotherapy		Rituximab	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6326	35	142	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6326	35	142	Treatment	Chemotherapy		Vincristine	6				Primary						No			No								Chop-14 + Rituximab	No	
+TCGA-G8-6326	263	297	Treatment	Chemotherapy		Cytarabine	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6326	263	297	Treatment	Chemotherapy		Dexamethasone	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6326	263	297	Treatment	Chemotherapy		Rituximab	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6326	263	297	Treatment	Chemotherapy		Cisplatin	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	1257		Treatment	Chemotherapy		Vincristine					Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	2561	2564	Treatment	Chemotherapy		Etoposide					Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6906	2930	2988	Treatment	Chemotherapy		Human Interleukin-2					Progression						No			No								Single Agent Therapy (Please Specify)	Yes	Autologous
+TCGA-G8-6906	2561	2564	Treatment	Chemotherapy		Cyclophosphamide					Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6906	1257		Treatment	Chemotherapy		Cyclophosphamide					Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	22		Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	9000		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	22		Treatment	Chemotherapy		Vincristine	6				Primary						No	12		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	1257		Treatment	Chemotherapy		Bleomycin					Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	22		Treatment	Chemotherapy		Prednisone	6				Primary						No	360		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6906	2643		Treatment	Chemotherapy		Thiotepa					Progression						No			No								Single Agent Therapy (Please Specify)	Yes	Autologous
+TCGA-G8-6906	2646	2648	Treatment	Radiation Therapy		Radiation 1					Adjuvant											1	6	1200	No	External Beam	cgy			
+TCGA-G8-6907	288	327	Treatment	Chemotherapy		Carboplatin	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6907	288	327	Treatment	Chemotherapy		Dexamethasone	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6907	288	327	Treatment	Chemotherapy		Cytarabine	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6907	288	327	Treatment	Chemotherapy		Rituximab	2				Progression						No			No								Other Pharmaceutical Regimen (Please Specify)	Yes	Autologous
+TCGA-G8-6907	28	187	Treatment	Chemotherapy		Prednisone	8				Primary						No	800		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6907	28	187	Treatment	Chemotherapy		Cyclophosphamide	8				Primary						No	12120		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6907	28	187	Treatment	Chemotherapy		Vincristine	8				Primary						No	16		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6907	28	187	Treatment	Chemotherapy		Doxorubicin	8				Primary						No	800		No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6907	383	385	Treatment	Radiation Therapy		Radiation 1					Progression											1	5	1000	No	External Beam	cgy			
+TCGA-G8-6909	25	129	Treatment	Chemotherapy		Rituximab	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6909	25	129	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6909	25	129	Treatment	Chemotherapy		Prednisone	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6909	25	129	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6909	25	129	Treatment	Chemotherapy		Vincristine	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6909	25	129	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Other Pharmaceutical Regimen (Please Specify)	No	
+TCGA-G8-6914	32	165	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21	No	
+TCGA-G8-6914	32	165	Treatment	Chemotherapy		Vincristine	6				Primary						No			No								Chop-21	No	
+TCGA-G8-6914	32	165	Treatment	Chemotherapy		Doxorubicin	6				Primary						No			No								Chop-21	No	
+TCGA-G8-6914	32	165	Treatment	Chemotherapy		Prednisone	6				Primary						No			No								Chop-21	No	
+TCGA-GR-7351	18	79	Treatment	Chemotherapy		Cyclophosphamide	4				Primary						No	1375		No								Chop-21 + Rituximab	No	
+TCGA-GR-7351	18	79	Treatment	Chemotherapy		Doxorubicin	4				Primary						No	92		No								Chop-21 + Rituximab	No	
+TCGA-GR-7351	18	79	Treatment	Chemotherapy		Vincristine	4				Primary						No	2		No								Chop-21 + Rituximab	No	
+TCGA-GR-7351	18	79	Treatment	Chemotherapy		Prednisone	4				Primary						No	500		No								Chop-21 + Rituximab	No	
+TCGA-GR-7351	18	79	Treatment	Chemotherapy		Rituximab	4				Primary						No	686		No								Chop-21 + Rituximab	No	
+TCGA-GR-7351	112	141	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field		22	39.6	No	External	gy			
+TCGA-GR-7353	11	116	Treatment	Chemotherapy		Vincristine	6				Primary						No	2		No								Chop-21 + Rituximab	No	
+TCGA-GR-7353	11	116	Treatment	Chemotherapy		Rituximab	6				Primary						No	675		No								Chop-21 + Rituximab	No	
+TCGA-GR-7353	11	116	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	90		No								Chop-21 + Rituximab	No	
+TCGA-GR-7353	11	116	Treatment	Chemotherapy		Prednisone	6				Primary						No	500		No								Chop-21 + Rituximab	No	
+TCGA-GR-7353	11	116	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	1350		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D4	31	136	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	94		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D4	31	136	Treatment	Chemotherapy		Prednisone	6				Primary						No	500		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D4	31	136	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	1403		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D4	31	115	Treatment	Chemotherapy		Vincristine	5				Primary						No	2		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D4	31	136	Treatment	Chemotherapy		Rituximab	6				Primary						No	700		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D5	22	127	Treatment	Chemotherapy		Prednisone	6				Primary						No	500		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D5	22	127	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	106		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D5	22	127	Treatment	Chemotherapy		Vincristine	6				Primary						No	2		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D5	22	127	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	1600		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D5	22	127	Treatment	Chemotherapy		Rituximab	6				Primary						No	800		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D6	22	131	Treatment	Chemotherapy		Rituximab	6				Primary						No	566		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D6	22	131	Treatment	Chemotherapy		Prednisone	6				Primary						No	500		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D6	22	131	Treatment	Chemotherapy		Vincristine	6				Primary						No	2		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D6	22	131	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	1133		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D6	22	131	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	76		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D9	43	43	Treatment	Chemotherapy		Methotrexate	1				Primary						No	12		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D9	22	127	Treatment	Chemotherapy		Vincristine	6				Primary						No	2		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D9	22	127	Treatment	Chemotherapy		Cyclophosphamide	6				Primary						No	1516		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D9	22	127	Treatment	Chemotherapy		Doxorubicin	6				Primary						No	100		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D9	22	127	Treatment	Chemotherapy		Prednisone	6				Primary						No	500		No								Chop-21 + Rituximab	No	
+TCGA-GR-A4D9	22	127	Treatment	Chemotherapy		Rituximab	6				Primary						No	758		No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TQ	24	129	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TQ	24	129	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TQ	24	129	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TQ	24	129	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TQ	24	129	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TT	377	482	Treatment	Immunotherapy		Methotrexate	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TT	377	482	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TT	377	482	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TT	377	482	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TT	377	482	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TT	377	482	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TU	0	155	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TU	0	155	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TU	0	155	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TU	0	155	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TU	0	155	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TU	214	235	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field		15	30	No	External	gy			
+TCGA-GS-A9TV	8	113	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TV	8	113	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TV	8	113	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TV	8	113	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TV	8	113	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TV	149	169	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field			25.2	No	External	gy			
+TCGA-GS-A9TW	13	128	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TW	13	128	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TW	13	128	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TW	13	128	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TW	13	128	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TW	188	208	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field			27	No	External	gy			
+TCGA-GS-A9TX	12	54	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TX	12	54	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TX	12	54	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TX	12	54	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TX	12	54	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TX	76	96	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field			30	No	External	gy			
+TCGA-GS-A9TY	28		Treatment	Immunotherapy		Vincristine	6				Primary						Yes			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TY	28		Treatment	Immunotherapy		Cyclophosphamide	6				Primary						Yes			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TY	28		Treatment	Immunotherapy		Prednisone	6				Primary						Yes			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TY	28		Treatment	Immunotherapy		Rituximab	6				Primary						Yes			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TZ	17	122	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TZ	17	122	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TZ	17	122	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TZ	17	122	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TZ	17	122	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9TZ	156	182	Treatment	Radiation Therapy		Radiation 1							complete response								Primary Tumor Field			30,6	No	External	gy			
+TCGA-GS-A9U3	28	142	Treatment	Immunotherapy		Prednisone	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U3	28	142	Treatment	Immunotherapy		Vincristine	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U3	28	142	Treatment	Immunotherapy		Doxorubicin	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U3	28	142	Treatment	Immunotherapy		Rituximab	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U3	28	142	Treatment	Immunotherapy		Cyclophosphamide	6				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	22	85	Treatment	Immunotherapy		Vincristine	4				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	106	110	Treatment	Immunotherapy		Cisplatin	-				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	22	85	Treatment	Immunotherapy		Doxorubicin	4				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	106	110	Treatment	Immunotherapy		Rituximab	-				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	106	110	Treatment	Immunotherapy		Methylprednisolone	-				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	22	85	Treatment	Immunotherapy		Cyclophosphamide	4				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	22	85	Treatment	Immunotherapy		Prednisone	4				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	106	110	Treatment	Immunotherapy		Etoposide	-				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-GS-A9U4	22	85	Treatment	Immunotherapy		Rituximab	4				Primary						No			No								Chop-21 + Rituximab	No	
+TCGA-RQ-A68N	8	84	Treatment	Chemotherapy		Methotrexate + Leucovorin	5				Primary						No			No								High Dose Methotrexate W/Leucovorin	No	

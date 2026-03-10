@@ -1,0 +1,131 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	STATUS	ANN_ARBOR_B_SYMPTOMS	ANN_ARBOR_EXTRANODAL_INVOLVEMENT	CLINICAL_STAGE	SYSTEM_VERSION	ANATOMIC_SITE	TUMOR_STATUS	PRIMARY_THERAPY_OUTCOME_SUCCESS	VITAL_STATUS
+TCGA-G8-6907	595		STATUS	DECEASED								
+TCGA-FA-A4XK	708		STATUS	DECEASED								
+TCGA-FA-A6HN	58		STATUS	DECEASED								
+TCGA-FA-A7Q1	248		STATUS	DECEASED								
+TCGA-FF-A7CR	313		STATUS	DECEASED								
+TCGA-G8-6324	1252		STATUS	DECEASED								
+TCGA-G8-6906	6425		STATUS	DECEASED								
+TCGA-G8-6909	3553		STATUS	DECEASED								
+TCGA-GS-A9U4	391		STATUS	DECEASED								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6324	501		STATUS	Stem Cell Transplantation								
+TCGA-G8-6906	2656		STATUS	Stem Cell Transplantation								
+TCGA-G8-6906	2656		STATUS	Stem Cell Transplantation								
+TCGA-G8-6906	2656		STATUS	Stem Cell Transplantation								
+TCGA-G8-6906	2656		STATUS	Stem Cell Transplantation								
+TCGA-G8-6907	386		STATUS	Stem Cell Transplantation								
+TCGA-G8-6907	386		STATUS	Stem Cell Transplantation								
+TCGA-G8-6907	386		STATUS	Stem Cell Transplantation								
+TCGA-G8-6907	386		STATUS	Stem Cell Transplantation								
+TCGA-FA-8693	0		STATUS	Initial Diagnosis	No	Yes	stage I	7th				
+TCGA-FA-A4BB	0		STATUS	Initial Diagnosis	Yes	Yes	stage IV	7th				
+TCGA-FA-A4XK	0		STATUS	Initial Diagnosis	No	Yes	stage II	7th				
+TCGA-FA-A6HN	0		STATUS	Initial Diagnosis	No	No		7th				
+TCGA-FA-A6HO	0		STATUS	Initial Diagnosis	No	No		7th				
+TCGA-FA-A7DS	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-FA-A7Q1	0		STATUS	Initial Diagnosis	No	No	stage I	7th				
+TCGA-FA-A82F	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-FA-A86F	0		STATUS	Initial Diagnosis	No	No	stage III	7th				
+TCGA-FF-8041	0		STATUS	Initial Diagnosis	No	No	stage I	7th				
+TCGA-FF-8042	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-FF-8043	0		STATUS	Initial Diagnosis	No	Yes	stage II	7th				
+TCGA-FF-8046	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-FF-8047	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-FF-8061	0		STATUS	Initial Diagnosis	Yes	Yes	stage II	7th				
+TCGA-FF-8062	0		STATUS	Initial Diagnosis	No	Yes	stage I	7th				
+TCGA-FF-A7CQ	0		STATUS	Initial Diagnosis	Yes	Yes	stage IV	7th				
+TCGA-FF-A7CR	0		STATUS	Initial Diagnosis	No	Yes	stage IV	7th				
+TCGA-FF-A7CW	0		STATUS	Initial Diagnosis	No	Yes	stage II	7th				
+TCGA-FF-A7CX	0		STATUS	Initial Diagnosis	Yes	Yes	stage IV	7th				
+TCGA-FM-8000	0		STATUS	Initial Diagnosis	No	Yes	stage II	7th				
+TCGA-G8-6324	0		STATUS	Initial Diagnosis	No	Yes	stage IV	6th				
+TCGA-G8-6325	0		STATUS	Initial Diagnosis	Yes	No	stage IV	6th				
+TCGA-G8-6326	0		STATUS	Initial Diagnosis	Yes	Yes	stage IV	6th				
+TCGA-G8-6906	0		STATUS	Initial Diagnosis	Yes	Yes						
+TCGA-G8-6907	0		STATUS	Initial Diagnosis	No	No	stage IV	5th				
+TCGA-G8-6909	0		STATUS	Initial Diagnosis	No	No	stage III	5th				
+TCGA-G8-6914	0		STATUS	Initial Diagnosis	No	No	stage III	4th				
+TCGA-GR-7351	0		STATUS	Initial Diagnosis	No	Yes	stage I					
+TCGA-GR-7353	0		STATUS	Initial Diagnosis	No	No	stage II					
+TCGA-GR-A4D4	0		STATUS	Initial Diagnosis	Yes	Yes	stage IV					
+TCGA-GR-A4D5	0		STATUS	Initial Diagnosis	Yes	Yes	stage IV					
+TCGA-GR-A4D6	0		STATUS	Initial Diagnosis	No	No	stage I					
+TCGA-GR-A4D9	0		STATUS	Initial Diagnosis	No	Yes	stage IV					
+TCGA-GS-A9TQ	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-GS-A9TT	0		STATUS	Initial Diagnosis	No	Yes	stage IV	7th				
+TCGA-GS-A9TU	0		STATUS	Initial Diagnosis	No	No	stage II	6th				
+TCGA-GS-A9TV	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-GS-A9TW	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-GS-A9TX	0		STATUS	Initial Diagnosis	No	No	stage I	7th				
+TCGA-GS-A9TY	0		STATUS	Initial Diagnosis	No	No	stage I	6th				
+TCGA-GS-A9TZ	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-GS-A9U3	0		STATUS	Initial Diagnosis	Yes	No	stage III	6th				
+TCGA-GS-A9U4	0		STATUS	Initial Diagnosis	No	No	stage II	7th				
+TCGA-RQ-A68N	0		STATUS	Initial Diagnosis				7th				
+TCGA-RQ-A6JB	0		STATUS	Initial Diagnosis	No	Yes		7th				
+TCGA-RQ-AAAT	0		STATUS	Initial Diagnosis				7th				
+TCGA-VB-A8QN	0		STATUS	Initial Diagnosis	Yes	Yes	stage III	7th				
+TCGA-FA-A6HO	739		STATUS	Progression Of Disease					Paraaortic Lymph Nodes			
+TCGA-FA-A86F	150		STATUS	Progression Of Disease					Inguinal, Mediastinal, Submandibular, Hilar			
+TCGA-FF-8047	24		STATUS	Progression Of Disease					Leptomeninges			
+TCGA-FF-A7CQ	255		STATUS	Progression Of Disease					Brain			
+TCGA-FF-A7CR	290		STATUS	Progression Of Disease					Bone Marrow, Skin (Calf And Chest Wall)			
+TCGA-FF-A7CR	290		STATUS	Progression Of Disease					Skin (Calf And Chest Wall)			
+TCGA-G8-6324	338		STATUS	Progression Of Disease					Supraclavicular Lymph Nodes			
+TCGA-G8-6907	279		STATUS	Progression Of Disease					Ovary			
+TCGA-GR-A4D9	1218		STATUS	Progression Of Disease					Soft Tissue			
+TCGA-GS-A9TY	3255		STATUS	Progression Of Disease					Pleura/Pleural Effusion			
+TCGA-GS-A9U4	106		STATUS	Progression Of Disease					Cervical Lymph Nodes			
+TCGA-FA-8693	132		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FA-A4BB	132		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FA-A6HO	749		STATUS	Last Follow Up						With Tumor	Complete Remission/Response	Alive
+TCGA-FA-A7DS	719		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FA-A82F	427		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FA-A86F	553		STATUS	Last Follow Up						With Tumor	Partial Remission/Response	Alive
+TCGA-FF-8041	1081		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-8042	946		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-8043	965		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-8046	751		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-8047	126		STATUS	Last Follow Up						With Tumor	Progressive Disease	Alive
+TCGA-FF-8061	832		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-8062	679		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-A7CQ	298		STATUS	Last Follow Up							Stable Disease	Alive
+TCGA-FF-A7CW	791		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FF-A7CX	385		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-FM-8000	972		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-G8-6325	1581		STATUS	Last Follow Up						Tumor Free	Stable Disease	Alive
+TCGA-G8-6326	2131		STATUS	Last Follow Up						Tumor Free	Progressive Disease	Alive
+TCGA-G8-6914	5980		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GR-7351	4578		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GR-7353	2983		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GR-A4D4	1581		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GR-A4D5	1299		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GR-A4D6	1334		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GR-A4D9	1739		STATUS	Last Follow Up						With Tumor	Complete Remission/Response	Alive
+TCGA-GS-A9TQ	982		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GS-A9TT	1163		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GS-A9TU	3897		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GS-A9TV	730		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GS-A9TW	1617		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-GS-A9TX	1373		STATUS	Last Follow Up							Complete Remission/Response	Alive
+TCGA-GS-A9TY	3333		STATUS	Last Follow Up						With Tumor	Complete Remission/Response	Alive
+TCGA-GS-A9TZ	765		STATUS	Last Follow Up						Tumor Free	Partial Remission/Response	Alive
+TCGA-GS-A9U3	3394		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-RQ-A6JB	1		STATUS	Last Follow Up								Alive
+TCGA-RQ-A68N	788		STATUS	Last Follow Up						Tumor Free	Complete Remission/Response	Alive
+TCGA-RQ-AAAT	17		STATUS	Last Follow Up								
+TCGA-VB-A8QN	0		STATUS	Last Follow Up						Tumor Free		Alive
